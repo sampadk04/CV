@@ -1,3 +1,3 @@
 # CV
 
-These are my updated CV and transcripts.
+These are my updated CV, transcripts and certificates.
