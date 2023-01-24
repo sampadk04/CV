@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1672055778 "/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/main.tex" "main.pdf" "main" 1672055778 0
-  "/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/main.tex" 1672053104 10988 63af8302cfdb37f2fd4c70eb6ee6883b ""
+["pdflatex"] 1674583722 "/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume/main.tex" "main.pdf" "main" 1674583722 0
+  "/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume/main.tex" 1674583721 11132 c6442171b64c979b96df340bae8a8024 ""
   "/Users/sampadk04/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk" 1672055777 10448 55d0f3f91212ee0d4a746b1ec55e43c4 ""
   "/Users/sampadk04/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1672055778 11524 4c248ba246d80b1198c9ba60a5fced90 ""
   "/usr/local/texlive/2022basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
@@ -89,9 +89,9 @@
   "/usr/local/texlive/2022basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1672054887 79230 542d9b748db1861126ff5514d8509dd8 ""
   "/usr/local/texlive/2022basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1672054616 7196777 663b78525cede19d563137cba545b578 ""
   "/usr/local/texlive/2022basic/texmf.cnf" 1647274000 628 5a32b7ea7dd5bed632a871bee125276d ""
-  "main.aux" 1672055778 1167 01e810d6f010519770ab7334df230b52 "pdflatex"
-  "main.out" 1672055778 487 841eb3ed37c2ec35896bf51ee0ff7259 "pdflatex"
-  "main.tex" 1672053104 10988 63af8302cfdb37f2fd4c70eb6ee6883b ""
+  "main.aux" 1674583722 1167 01e810d6f010519770ab7334df230b52 "pdflatex"
+  "main.out" 1674583722 487 841eb3ed37c2ec35896bf51ee0ff7259 "pdflatex"
+  "main.tex" 1674583721 11132 c6442171b64c979b96df340bae8a8024 ""
   (generated)
   "main.aux"
   "main.log"

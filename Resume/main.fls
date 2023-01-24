@@ -1,8 +1,8 @@
-PWD /Users/sampadk04/Desktop/Programming/VSCode-Projects/CV
+PWD /Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume
 INPUT /usr/local/texlive/2022basic/texmf.cnf
 INPUT /usr/local/texlive/2022basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/main.tex
+INPUT /Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2022basic/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022basic/texmf-dist/tex/latex/base/article.cls
@@ -488,9 +488,9 @@ INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
-INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2022basic/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm

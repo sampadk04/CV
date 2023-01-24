@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.26)  26 DEC 2022 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.26)  24 JAN 2023 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/main.tex
-(/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/main.tex
+**/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume/main.tex
+(/Users/sampadk04/Desktop/Programming/VSCode-Projects/CV/Resume/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-12-17> (/usr/local/texlive/2022basic/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -265,17 +265,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9241 strings out of 477544
- 146024 string characters out of 5825811
+ 146045 string characters out of 5825811
  1884793 words of memory out of 5000000
  29302 multiletter control sequences out of 15000+600000
  518947 words of font info for 56 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 72i,11n,77p,900b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,77p,907b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/sampadk04/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </Users/sampadk04/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (1 page, 185925 bytes).
+Output written on main.pdf (1 page, 186540 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 137 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  7 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
