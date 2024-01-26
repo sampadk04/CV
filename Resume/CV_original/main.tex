@@ -1,0 +1,270 @@
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Sampad Kumar Kar}} & Email: \href{mailto:}{sampaddavcspur2001@gmail.com}\\
+  & \href{mailto:}{sampadk04@cmi.ac.in}\\
+  \href{https://sampadk04.github.io}{Portfolio: ~sampadk04.github.io} & Mobile:~~~+91-797-8620-354 \\
+  \href{https://github.com/sampadk04}{Github: ~~~github.com/sampadk04} \\
+  \href{https://www.linkedin.com/in/sampadk04/}{LinkedIn: ~linkedin.com/in/sampadk04/}
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Chennai Mathematical Institute}{Chennai, India}
+      {M.Sc. - Computer Science; \textbf{GPA: 9.25}; \textit{\href{https://github.com/sampadk04/CV/blob/main/Transcripts/transcript_MCS202215_cmi.pdf}{transcript}}}{2022 - present}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Notable Coursework:} Advanced Machine Learning, Reinforcement Learning, Mathematical Statistics, Computer Vision, Natural Language Processing}}}
+    \resumeSubheading
+      {Chennai Mathematical Institute}{Chennai, India}
+      {B.Sc.(Hons.) - Mathematics and Computer Science;  \textbf{GPA: 8.82}; \textit{\href{https://github.com/sampadk04/CV/blob/main/Transcripts/transcript_BMC201944_cmi.pdf}{transcript}}}{2019 - 2022}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Notable Coursework:} Calculus, Differential Equations, Probability Theory, Linear Algebra,Theoretical Foundations of ML, Data Mining and ML, Probability and Statistics with R, Linear Programming and Combinatorial Optimisation}}}
+    \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{\href{https://sampadk04.github.io/post/}{Notable Projects}}
+\resumeSubHeadingListStart
+
+\resumeSubItem{Computer Vision - \href{https://sampadk04.github.io/post/project-9/}{Fitness Activity Recognition}}{(Internship Project): Used Google's MediaPipe Pose ML solution with BlazePose to analyze fitness demonstration videos for guided instructions to - 1) recognize classify the exercises on a per frame basis; 2) count the no. of repetitions, using Google RepNet; 3) use DTW (Dynamic Time Warping to compare the trainer videos (experts) to the trainee videos (learners) and output a score. \textit{\href{https://www.launchpad.ai/blog/fitness-activity-recognition-using-mediapipe-blazepose}{Blog}} \textit{\href{https://github.com/sampadk04/fitness-activity-recognition/blob/main/Report.pdf}{Report}} \textit{\href{https://github.com/sampadk04/fitness-activity-recognition}{GitHub}} (August '22)}
+\vspace{2pt}
+
+\resumeSubItem{ToDo WebApp - \href{https://sampadk04.github.io/post/project-7/}{My ToDo WebApp}}{(Flask WebApp): A social ToDo app to keep track of group tasks. In this shared ToDo WebApp, everyone can view the public ToDo List and Add/Update/Delete the tasks. The Heroku deployed version of this app can be found \href{https://webappmytodo.herokuapp.com/}{here}. \textit{\href{https://github.com/sampadk04/myToDo}{GitHub}} (June '22)}
+\vspace{2pt}
+
+\resumeSubItem{ANN - \href{https://sampadk04.github.io/post/project-0/}{Comparison of Regularization Techniques in DNNs}}{(Reading Project): Comparative research on several popular regularization techniques using real world weather dataset. Also tested this on their own test set, to validate the conclusions based on training and validation errors, to come up with the best regularization paradigm. \textit{\href{https://drive.google.com/file/d/1IdB25eOe6ux7u2mR4tHNifdWi-Pfh87G/view?usp=sharing}{Report}} (January '22)}
+\vspace{2pt}
+
+\resumeSubItem{Clustering - \href{https://sampadk04.github.io/post/project-6/}{Fast Text based Clustering}}{Developed 4 clustering techniques, two of them based on built-in sklearn 'KMeans', and two new techniques coded from scratch to cluster bigger datasets, all using 'Jaccard Similarity' as metric. Optimised these algorithms to be able to cluster bigger datasets for further semi-supervised learnings. \textit{\href{https://github.com/sampadk04/Fast_Text_based_Clustering}{GitHub}} (April '22)}
+\vspace{2pt}
+
+\resumeSubItem{Computer Vision - \href{https://sampadk04.github.io/post/project-12/}{Facial Emotion Detector}}{Developed a facial expression detector from scratch using Deep Residual Networks and the Kaggle open-source facial expression dataset. Additionally, deployed the model for real-time rendering to capture human facial expressions in real-time via webcam. \textit{\href{https://github.com/sampadk04/Facial_Emotion_Detector}{GitHub}} (Jan '23)}
+\vspace{2pt}
+
+\resumeSubItem{Reinforcement Learning - \href{https://sampadk04.github.io/post/project-8/}{Playing Super Mario Bros}}{(OpenAI Gym): A Reinforcement Learning implementation on the OpenAI Gym environment setup for Super Mario Bros using the PPO (Proximal Policy Optimization) Algorithm. \textit{\href{https://github.com/sampadk04/openai-super-mario-bros}{GitHub}} (Aug '22)}
+\vspace{2pt}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+
+%-----------Experience-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+\begin{comment}
+    \resumeSubheading{Google Summer of Code - Submitty}{Remote}
+    {Student Developer (Full-time)}{May 2019 - Sep 2019}
+    \resumeItemListStart
+        \resumeItem{Discussion Forum Upgrades}
+          {Refactor forum for performance to handle large databases.}
+          \resumeItem{REST API for Discussion Forum}
+          {Symphony \& Twig based Forum parts converted to API-first interface.}
+          \resumeItem{Ratchet PHP WebSocket}{Implemented a WebSocket for low-latency real time exchange of posts and thread updates.}
+      \resumeItemListEnd
+\end{comment}
+
+    \resumeSubheading{\href{https://www.bnymellon.com/}{BNY Mellon}}{Chennai, India}
+    {Computer Vision Intern}{May 2023 - July 2023}
+    \resumeItemListStart
+        \resumeItem{Project}
+          {Enhancing Short Term Cash Flow Model}
+        \resumeItem{Contribution}
+          {Enhanced BNY Mellon's Corporate Treasury framework for STCF forecasting by implementing quantitative methods to identify seasonal days, leading to more accurate predictions across LOBs and currencies. Developed strategies using statistical tests and modeling techniques, demonstrating the superiority of the quantitative framework over the existing qualitative model. Model forwarded to Risk for auditing for the Bank's use. \textit{\href{https://github.com/sampadk04/Internship_Reports/blob/main/BNY_Mellon/Enhancing_Short_Term_Cashflow-Internship_Report.pdf}{Report}}}
+      \resumeItemListEnd
+
+    \resumeSubheading{\href{https://www.trumpf.com/en_IN/}{Trumpf}}{Chennai, India}
+    {Computer Vision Intern}{Nov 2022 - Apr 2023}
+    \resumeItemListStart
+        \resumeItem{Project}
+          {Sheet Metal Part Identification}
+        \resumeItem{Contribution}
+          {Built a deployable pipeline to identify ‘Sheet Metal Parts’ and their types and output their corresponding CAD file. Utilized transfer learning on pre-trained ensembles to identify an image as a SMP or not. Employed image hashing and other image processing techniques to classify the identified SMP as one of the 10 pre-defined classes for outputting the corresponding CAD file. \textit{\href{https://github.com/sampadk04/Internship_Reports/blob/main/Trumpf_Metamation/Sheet_Metal_Part_Recognition-Internship_Report.pdf}{Report}}}
+      \resumeItemListEnd
+
+    \resumeSubheading{\href{https://www.launchpad.ai}{Launchpad.ai}}{Remote}
+    {Machine Learning Intern}{July 2022 - Sep 2022}
+    \resumeItemListStart
+        \resumeItem{Project}
+          {Fitness Activity Recognition (in collaboration with Nike)}
+        \resumeItem{Contribution}
+          {Worked with the Cohort’23 to develop a generic model to identify and compare videos of trainees with experts. Implemented algorithms using Dynamic Time Warping to compare videos using the coordinates extracted via Mediapipe Blazepose, while making the comparison robust to differences in camera angles. \textit{\href{https://github.com/sampadk04/Internship_Reports/blob/main/Launchpad/Fitness_Activity_Recognition-Final_Report.pdf}{Report}}}
+      \resumeItemListEnd
+    
+    \resumeSubheading{\href{https://www.cheenta.com}{Cheenta}}{Remote}
+    {Mathematics Instructor (part-time)}{Oct 2019 - Apr 2022}
+    \resumeItemListStart
+        \resumeItem{Mathematics Olympiad Instructor}
+          {Taught various courses for Indian National Mathematics Olympiads on various topics like Geometry, Number Theory, Algebra etc.}
+      \resumeItemListEnd
+    
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%------------New Page--------------
+\newpage
+
+%-----------Teaching Assistant Experience-----------------
+\section{TA Experience}
+  \resumeSubHeadingListStart
+    
+    \resumeSubheading{\href{https://www.cmi.ac.in}{Chennai Mathematical Institute}}{Chennai, India}
+    {Teaching Assistant}{Jan 2023 - Apr 2023}
+    \resumeItemListStart
+        \resumeItem{\href{https://www.cmi.ac.in/~madhavan/courses/dmml2023/}{Data Mining and Machine Learning}}
+          {Instructors: \href{https://www.cmi.ac.in/~madhavan/}{Prof. Madhavan Mukund}, \href{https://pranabendu.bitbucket.io}{Prof. Pranabendu Misra}, Course Details: This course is an introduction to machine learning techniques including supervised and unsupervised learning, text mining, and additional topics such as probabilistic graphical models and neural networks.}
+      \resumeItemListEnd
+    
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------Awards-----------------
+\section{Honors and Awards}
+\begin{description}[font=$\bullet$]
+\item {Shriram Scholarship (Full Tution Fee Waiver and Stipend at CMI for Masters) - 2022 - present}
+\vspace{-5pt}
+\item {Shriram Scholarship (Full Tution Fee Waiver and Stipend at CMI for Bachelors) - 2019 - 2022}
+\vspace{-5pt}
+\item {NTSE Scholar - 2017}
+\vspace{-5pt}
+\item {INMO Merit Awardee - 2017 }
+\vspace{-5pt}
+\item {KVPY Qualifier - 2018}
+\vspace{-5pt}
+\item {NSEP, NSEA, RMO Qualifier - 2017-18}
+\vspace{-5pt}
+\item {JEE Advanced AIR \textbf{4062}, JEE Mains AIR \textbf{3042}  - 2019}
+
+\end{description}
+\vspace{-5pt}
+
+%-----------Skills-----------------
+\section{Skills}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~~~~~Python, R, Matlab C++, Java, Haskell}
+	\resumeSubItem{ML Frameworks}{~NumPy, Pandas, Scikit, Tensorflow, NLTK, OpenCV, Matplotlib, Seaborn}
+	\resumeSubItem{Web Dev}{~~~~~~~~~~~~HTML, CSS, Bootstrap, Javascript, Flask, Jinja2, SQLAlchemy}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~~~~~Git, PostgreSQL, \LaTeX, Excel, SQLite}
+	\resumeSubItem{Platforms}{~~~~~~~~~~~Linux, Windows, Mac}
+	\resumeSubItem{Soft Skills}{~~~~~~~~~~~Leadership, Event Management, Writing, Public Speaking, Time Management}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+
+
+
+
+
+\begin{comment}
+\vspace{-5pt}
+%-----------Publications-----------------
+\section{Publications}
+\resumeSubHeadingListStart
+\resumeSubItem{Book: Deep Learning on Web (Web Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Django, Python, AWS, GCP, Azure (November '18)}
+\vspace{2pt}
+\resumeSubItem{Book: Deep Learning on Mobile Devices (Flutter App Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Flutter, Android, Firebase, TensorFlow, Python, Dart (December '18)}
+\resumeSubHeadingListEnd
+\end{comment}
+
+
+
+
+\begin{comment}
+\vspace{-5pt}
+%-----------Volunteer Experience-----------------
+\section{Volunteer Experience}
+  \resumeSubHeadingListStart
+	\resumeSubheading
+    {Community Lead at Developer Student Clubs NSEC}{Kolkata, India}
+    {Conducted online and offline technical \& soft-skills training impacting over 3000 students.}{Jan 2019 - Present}
+\vspace{5pt}
+    % \vspace{10pt}\textbf{\large{Community Experience}}
+    \resumeSubheading
+    {Event Organizer at Google Developers Group Kolkata}{Kolkata, India}
+    {Organized events, conducted workshops and delivered workshops reaching over 7000 developers.}{Jan 2018 - Present}
+\resumeSubHeadingListEnd
+\end{comment}
+
+
+
+
+
+
+\end{document}
