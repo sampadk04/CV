@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706262290 "/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex" "main.pdf" "main" 1706262290 0
-  "/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex" 1706242462 13791 93e5773e60331730877ac14f1027efd9 ""
+["pdflatex"] 1711015919 "/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex" "main.pdf" "main" 1711015920 0
+  "/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex" 1711015919 13791 1f6de15e581e8f16e2b4d08fafb5e839 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
@@ -91,9 +91,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1704527062 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1704526995 7883457 db8ee17b412794dd80c9d27ed5266ab6 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1706262290 1251 0c48d3f6c474bc261f0622d1f24446d0 "pdflatex"
-  "main.out" 1706262290 625 3086b8451a0540af6daab4ac5a44a952 "pdflatex"
-  "main.tex" 1706242462 13791 93e5773e60331730877ac14f1027efd9 ""
+  "main.aux" 1711015920 1251 0c48d3f6c474bc261f0622d1f24446d0 "pdflatex"
+  "main.out" 1711015920 625 3086b8451a0540af6daab4ac5a44a952 "pdflatex"
+  "main.tex" 1711015919 13791 1f6de15e581e8f16e2b4d08fafb5e839 ""
   (generated)
   "main.aux"
   "main.log"

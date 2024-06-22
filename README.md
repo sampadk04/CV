@@ -1,3 +1,3 @@
 # CV
 
-This repo contains my updated CV, Transcript, Degree and Internship Certificates.
+This repo contains my updated CV, Transcript and Degree Certificates.
