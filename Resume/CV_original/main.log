@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.6)  21 MAR 2024 15:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.6)  2 JUL 2024 19:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex
-(/Users/sampadk04/Desktop/Coding/CV/Resume/CV_original/main.tex
+**/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex
+(/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -248,9 +248,9 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 75.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 147.
+(Font)              <9> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 147.
+(Font)              <6> on input line 120.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -267,21 +267,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3086B8451A0540AF6DAAB4AC5A44A952;625.
+(rerunfilecheck)             Checksum: B1825E7A58D5A7CC15A42F30E37B5EE9;746.
  ) 
 Here is how much of TeX's memory you used:
- 9247 strings out of 476025
- 145614 string characters out of 5790018
- 1881388 words of memory out of 5000000
- 29587 multiletter control sequences out of 15000+600000
+ 9249 strings out of 476025
+ 145682 string characters out of 5790018
+ 1878388 words of memory out of 5000000
+ 29588 multiletter control sequences out of 15000+600000
  518947 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,898b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,886b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (2 pages, 204125 bytes).
+Output written on main.pdf (2 pages, 204211 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 9 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 10 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
