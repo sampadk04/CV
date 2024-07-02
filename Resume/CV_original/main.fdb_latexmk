@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1719940023 "/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex" "main.pdf" "main" 1719940024 0
-  "/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex" 1719940022 14668 a17850b568a379ce3e2ebd03cbd39313 ""
+["pdflatex"] 1719949626 "/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex" "main.pdf" "main" 1719949627 0
+  "/Users/sampadk04/Desktop/Coding/GitHub_Projects/CV/Resume/CV_original/main.tex" 1719949626 15953 ad3702e479dabc2dd0ff898d9e250bc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
@@ -91,9 +91,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1704527062 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1704526995 7883457 db8ee17b412794dd80c9d27ed5266ab6 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1719940024 1407 3c4d928282180401ba538f9de91dfdc1 "pdflatex"
-  "main.out" 1719940024 746 b1825e7a58d5a7cc15a42f30e37b5ee9 "pdflatex"
-  "main.tex" 1719940022 14668 a17850b568a379ce3e2ebd03cbd39313 ""
+  "main.aux" 1719949627 1414 bf3a958090329bc7f2adfd278b76755c "pdflatex"
+  "main.out" 1719949627 746 b1825e7a58d5a7cc15a42f30e37b5ee9 "pdflatex"
+  "main.tex" 1719949626 15953 ad3702e479dabc2dd0ff898d9e250bc8 ""
   (generated)
   "main.aux"
   "main.log"
